@@ -1,1 +1,4 @@
-# english_clubs_logo_scraping
+# Scraping logos of English clubs from Wikipedia
+  - Python
+  - Beautifulsoup
+
